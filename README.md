@@ -4,6 +4,7 @@ This program is used to demonstrate the use of 2D arrays in Java, focusing on th
 
 ## How to Run
 javac Array_2D_MultipleDataTypes_OscarGarcia.java
+
 java Array_2D_MultipleDataTypes_OscarGarcia
 
 ## Topics Covered
