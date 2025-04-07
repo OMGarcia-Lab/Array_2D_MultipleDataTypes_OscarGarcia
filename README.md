@@ -8,9 +8,9 @@ javac Array_2D_MultipleDataTypes_OscarGarcia.java
 java Array_2D_MultipleDataTypes_OscarGarcia
 
 ## Topics Covered
-- 2D arrays
-- Looping through arrays
-- Data storage by index
+- 2D Arrays
+- Looping Through Arrays
+- Data Storage by Index
 
 ---
 
