@@ -3,7 +3,6 @@
 This program is used to demonstrate the use of 2D arrays in Java, focusing on the storage/organization of multiple data types. It also displays the results inside a box for a more polished output.
 
 ## How to Run
-```bash
 javac Array_2D_MultipleDataTypes_OscarGarcia.java
 java Array_2D_MultipleDataTypes_OscarGarcia
 
